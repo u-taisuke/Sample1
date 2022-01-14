@@ -10,7 +10,7 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Sample1">
         <activity
-            android:name=".MainActivity"
+            android:name=".Gamen1"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
